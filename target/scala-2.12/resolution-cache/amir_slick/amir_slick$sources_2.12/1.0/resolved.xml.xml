@@ -4,7 +4,7 @@
 		module="amir_slick$sources_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20171228160419"
+		publication="20171228164537"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

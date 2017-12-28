@@ -1,4 +1,5 @@
-package com.pintapin.typeController.db
+package com.amirhosseinSmo.typeController.db
+
 import slick.driver.PostgresDriver
 import slick.driver.PostgresDriver.backend.DatabaseDef
 import slick.driver.PostgresDriver.api._

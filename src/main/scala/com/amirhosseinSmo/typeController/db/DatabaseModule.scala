@@ -1,6 +1,4 @@
-package com.pintapin.typeController.db
-
-
+package com.amirhosseinSmo.typeController.db
 
 class DatabaseModule {
   val masterDatabase: Db[Master] = new Db(DatabaseConfiguration.Master)

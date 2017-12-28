@@ -1,4 +1,4 @@
-package com.pintapin.typeController.db
+package com.amirhosseinSmo.typeController.db
 
 import slick.dbio.{DBIOAction, NoStream}
 import slick.driver.PostgresDriver.api._

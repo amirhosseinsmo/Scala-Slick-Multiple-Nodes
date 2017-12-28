@@ -4,7 +4,7 @@
 		module="amir_slick$sbt_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20171228160417"
+		publication="20171228164534"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

@@ -1,4 +1,4 @@
-package com.pintapin.typeController
+package com.amirhosseinSmo.typeController
 
 import com.pintapin.typeController.db.HasPrivilege
 import com.sun.xml.internal.bind.v2.schemagen.xmlschema.Schema

@@ -1,4 +1,4 @@
-[info] Updating {file:/home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/}multiplenodes...
+[info] Updating {file:/home/a-mohammadi/Desktop/multipleNodes/}multiplenodes...
 [debug] :: resolving dependencies :: amir_slick#amir_slick_2.12;1.0
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -6375,19 +6375,19 @@
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.8.5!jackson-datatype-jsr310.jar(bundle)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.3!scala-compiler.jar
 [debug] 	[NOT REQUIRED] jline#jline;2.14.4!jline.jar
-[debug] :: resolution report :: resolve 1238ms :: artifacts dl 25ms
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 compile produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-compile.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 runtime produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-runtime.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 test produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-test.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 provided produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-provided.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 optional produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-optional.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 compile-internal produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-compile-internal.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 runtime-internal produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-runtime-internal.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 test-internal produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-test-internal.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 plugin produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-plugin.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 sources produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-sources.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 docs produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-docs.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 pom produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-pom.xml
-[debug] 	report for amir_slick#amir_slick_2.12;1.0 scala-tool produced in /home/a-mohammadi/Desktop/amirhosein-mohamadi-96-06-22/IdeaProjects/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-scala-tool.xml
-[debug] 	resolve done (1238ms resolve - 25ms download)
+[debug] :: resolution report :: resolve 1537ms :: artifacts dl 31ms
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 compile produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-compile.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 runtime produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-runtime.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 test produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-test.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 provided produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-provided.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 optional produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-optional.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 compile-internal produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-compile-internal.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 runtime-internal produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-runtime-internal.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 test-internal produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-test-internal.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 plugin produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-plugin.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 sources produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-sources.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 docs produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-docs.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 pom produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-pom.xml
+[debug] 	report for amir_slick#amir_slick_2.12;1.0 scala-tool produced in /home/a-mohammadi/Desktop/multipleNodes/target/scala-2.12/resolution-cache/reports/amir_slick-amir_slick_2.12-scala-tool.xml
+[debug] 	resolve done (1537ms resolve - 31ms download)
 [info] Done updating.
