@@ -1,6 +1,6 @@
 package com.amirhosseinSmo.typeController
 
-import com.pintapin.typeController.db.HasPrivilege
+import com.amirhosseinSmo.typeController.db.HasPrivilege
 import com.sun.xml.internal.bind.v2.schemagen.xmlschema.Schema
 import slick.dbio.Effect
 import slick.dbio.Effect.{Read, Transactional, Write}

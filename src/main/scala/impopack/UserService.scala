@@ -1,6 +1,6 @@
 package impopack
 
-import com.pintapin.typeController.db.{Db, Master}
+import com.amirhosseinSmo.typeController.db.{Db, Master}
 import slick.jdbc.GetResult
 import slick.driver.PostgresDriver.api._
 import slick.lifted.TableQuery

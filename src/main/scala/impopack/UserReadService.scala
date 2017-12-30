@@ -1,6 +1,6 @@
 package impopack
 
-import com.pintapin.typeController.db.{Db, Master, Role, Slave}
+import com.amirhosseinSmo.typeController.db.{Db, Master, Role, Slave}
 import slick.lifted.TableQuery
 import impopack.userTable
 import slick.driver.PostgresDriver.api._

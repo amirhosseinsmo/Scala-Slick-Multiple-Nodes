@@ -2,6 +2,7 @@ package impopack
 
 import slick.jdbc.PostgresProfile.api.Database
 import PostgresDriver.api._
+import com.amirhosseinSmo.typeController.db.DatabaseModule
 import com.pintapin.typeController.db.DatabaseModule
 //import example.PostgresDriver
 import org.joda.time.Seconds

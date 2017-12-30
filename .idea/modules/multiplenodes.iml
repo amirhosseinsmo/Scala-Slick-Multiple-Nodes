@@ -22,34 +22,34 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-annotations:2.8.5:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.typelevel:macro-compat_2.12:1.1.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.slf4j:slf4j-nop:1.6.4:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.slf4j:slf4j-api:1.7.21:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-xml_2.12:1.0.6:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.12.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.12.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.reactivestreams:reactive-streams:1.0.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.postgresql:postgresql:42.0.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.json4s:json4s-scalap_2.12:3.5.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.json4s:json4s-core_2.12:3.5.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.json4s:json4s-ast_2.12:3.5.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: joda-time:joda-time:2.9.6:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.zaxxer:HikariCP:2.5.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.vividsolutions:jts:1.13:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.typesafe.slick:slick_2.12:3.2.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.typesafe.slick:slick-hikaricp_2.12:3.2.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.typesafe.play:play-json_2.12:2.6.0-M3:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.typesafe.play:play-functional_2.12:2.6.0-M3:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.typesafe:config:1.2.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.thoughtworks.paranamer:paranamer:2.8:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_play-json_2.12:0.15.0-RC:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_jts_2.12:0.15.0-RC:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_json4s_2.12:0.15.0-RC:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_core_2.12:0.15.0-RC:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_2.12:0.15.0-RC:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.5:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.8.5:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-databind:2.8.5:jar" level="project" />
     <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-core:2.8.5:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-databind:2.8.5:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.8.5:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.5:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_2.12:0.15.0-RC:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_core_2.12:0.15.0-RC:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_json4s_2.12:0.15.0-RC:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_jts_2.12:0.15.0-RC:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.tminglei:slick-pg_play-json_2.12:0.15.0-RC:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.thoughtworks.paranamer:paranamer:2.8:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe:config:1.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.play:play-functional_2.12:2.6.0-M3:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.play:play-json_2.12:2.6.0-M3:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.slick:slick-hikaricp_2.12:3.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.slick:slick_2.12:3.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.vividsolutions:jts:1.13:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.zaxxer:HikariCP:2.5.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: joda-time:joda-time:2.9.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.json4s:json4s-ast_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.json4s:json4s-core_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.json4s:json4s-scalap_2.12:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.postgresql:postgresql:42.0.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.reactivestreams:reactive-streams:1.0.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-xml_2.12:1.0.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.slf4j:slf4j-api:1.7.21:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.slf4j:slf4j-nop:1.6.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.typelevel:macro-compat_2.12:1.1.1:jar" level="project" />
   </component>
 </module>

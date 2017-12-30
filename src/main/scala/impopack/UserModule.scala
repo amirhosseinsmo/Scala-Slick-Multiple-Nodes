@@ -2,7 +2,7 @@ package impopack
 
 import javax.management.relation.Role
 
-import com.pintapin.typeController.db.{DatabaseModule, Master, Slave}
+import com.amirhosseinSmo.typeController.db.{DatabaseModule, Master, Slave}
 
 class UserModule(databaseModule: DatabaseModule) {
 
